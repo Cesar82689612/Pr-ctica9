@@ -9,8 +9,8 @@ int main()
  propio arreglo*/
  printf("La palabra ingresada es: %s\n", palabra);
  for (i = 0 ; i < 20 ; i++)
-   {
- printf("%c\n", palabra[i]);
- }
+  {
+   printf("%c\n", palabra[i]);
+  }
  return 0;
 }
